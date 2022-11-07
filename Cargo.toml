@@ -7,3 +7,6 @@ edition = "2021"
 
 [dependencies]
 sparse-merkle-tree = { path = "../sparse-merkle-tree" }
+proptest = { version = "0.9"}
+
+rand = "0.8"
